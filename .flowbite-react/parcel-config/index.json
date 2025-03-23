@@ -1,0 +1,6 @@
+{
+  "reporters": [
+    "./parcel-reporter.cjs",
+    "..."
+  ]
+}
