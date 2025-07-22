@@ -1,6 +1,3 @@
 {
-  "reporters": [
-    "./parcel-reporter.cjs",
-    "..."
-  ]
+  "reporters": ["./parcel-reporter.cjs", "..."]
 }
